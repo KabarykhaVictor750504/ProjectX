@@ -50,6 +50,7 @@ SPoH – Story: Path of Hero(История: Путь героя)
 Игровой лаунчер с графическими настройками  
 ![](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/GameLaucher(Graphics).png)  
 Игровой лаунчер с настройками управления 
+
 ![](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/GameLaucher(Input).png)  
 Главное меню  ![Главное меню](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/MainMenu.png)  
 Примерное представление прыжка(стрелки в самой игре не будет)  ![Примерное представление прыжка(стрелки в самой игре не будет](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/JumpAndWalk.png)  
