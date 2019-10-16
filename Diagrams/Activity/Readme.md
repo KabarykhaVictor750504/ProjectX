@@ -34,4 +34,6 @@
 
 ## 1.6 Генерация мира
 
+Если игрок прошёд игровой уровень - создаётся новый уровень.  
+
 ![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Activity/Generation.jpg)
