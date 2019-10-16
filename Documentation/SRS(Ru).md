@@ -59,6 +59,8 @@ SPoH – Story: Path of Hero(История: Путь героя)
 Меню паузы  ![Меню паузы](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/GameMenu.png)  
 Инвентарь героя  ![Инвентарь героя](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/Inventory.png)  
 # 4. Функциональные особенности 
+ - Начать игру;
+ - Выйти из игры;
  - Процедурно генерируемые локации;
  - Сбор предметов для улучшения показателей героя;
  - Покупка предметов у торговцев;
