@@ -6,4 +6,6 @@
 1.2.2 [Выход из игры](#14-Выход-из-игры) 
 
 # 1. Диаграмма вариантов использования 
-![Диаграмма вариантов использования](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Diagrams/Usecase/Usecase.jpg) 
+![Диаграмма-вариантов использования](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Use%20case/Use%20case.jpg) 
+## 1.1 Актёры 
+  Игрок - человек, который принимает участие в игровом процессе  
