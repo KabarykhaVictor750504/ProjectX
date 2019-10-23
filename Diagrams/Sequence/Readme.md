@@ -9,14 +9,14 @@
 
 # 1. Диаграммы последовательностей  
 ## 1.1 Начать игру  
-![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequencePlay.jpg)
+![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequencePlay.jfif)
 ## 1.2 Генерация мира
-![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceGeneration.jpg)
+![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceGeneration.jfif)
 ## 1.3 Торговля
-![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceTrade.jpg)
+![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceTrade.jfif)
 ## 1.4 Сбор предметов
 ![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceGathering.jpg)
 ## 1.5 Сражение 
 ![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceBattle.jpg)
 ## 1.6 Выйти из игры 
-![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/Sequence%20Exit.jpg)
+![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceExit.jfif)
