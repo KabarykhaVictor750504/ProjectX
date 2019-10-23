@@ -6,6 +6,7 @@
 1.4 [Сбор предметов](#14-Сбор-предметов)  
 1.5 [Сражение](#15-Сражение)  
 1.6 [Выйти из игры](#16-Выйти-из-игры)  
+1.7 [Выброс предметов](#17-Выброс-предметов) 
 
 # 1. Диаграммы последовательностей  
 ## 1.1 Начать игру  
@@ -15,8 +16,11 @@
 ## 1.3 Торговля
 ![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceTrade.jfif)
 ## 1.4 Сбор предметов
-![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceGathering.jpg)
+![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceGathering.jfif)
 ## 1.5 Сражение 
 ![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceBattle.jpg)
 ## 1.6 Выйти из игры 
-![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceExit.jfif)
+![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceExit.jfif)  
+## 1.7 Выброс предметов  
+![](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/Sequence/SequenceThrowOut.jpg)
+
