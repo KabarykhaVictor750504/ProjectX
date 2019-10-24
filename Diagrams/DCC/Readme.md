@@ -10,4 +10,4 @@
 ![Диаграмма развёртывания](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/DCC/Deploy.jfif)
 
 # 3 Диаграмма компонентов
-![Диаграмма развёртывания]()
+![Диаграмма развёртывания](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/DCC/Components.jfif)
