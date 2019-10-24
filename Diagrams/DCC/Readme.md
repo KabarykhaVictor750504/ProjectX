@@ -4,10 +4,10 @@
 3. [Диаграмма компонентов](#3Диаграмма-компонентов)  
 
 # 1 Диаграмма классов
-![Диаграмма классов]()
+![Диаграмма классов](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/DCC/ClassDiagramm.jpg)
 
 # 2 Диаграмма развёртывания
-![Диаграмма развёртывания]()
+![Диаграмма развёртывания](https://github.com/KabarykhaVictor750504/SPoH/blob/master/Diagrams/DCC/Deploy.jfif)
 
 # 3 Диаграмма компонентов
 ![Диаграмма развёртывания]()
