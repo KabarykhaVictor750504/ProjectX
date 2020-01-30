@@ -58,7 +58,7 @@ SPoH – Story: Path of Hero(История: Путь героя)
 Примерное представление атаки и блока  ![Примерное представление атаки и блока](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/BlockAndAtack.png)  
 Меню паузы  ![Меню паузы](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/GameMenu.png)  
 Инвентарь героя  ![Инвентарь героя](https://github.com/KabarykhaVictor750504/ProjectX/blob/master/Mackup/Inventory.png)  
-# 4. Функциональные особенности 
+# 4. Функциональные требования 
  - Начать игру;
  - Выйти из игры;
  - Процедурно генерируемые локации;
